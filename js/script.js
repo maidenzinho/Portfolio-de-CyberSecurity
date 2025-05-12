@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
             subtitle: "Scanner de vulnerabilidades em redes",
             description: "Uma ferramenta robusta para detectar vulnerabilidades em redes corporativas. Identifica pontos fracos de segurança, verifica configurações de firewall e testa contra exploits conhecidos.",
             techs: ["Python", "Nmap", "Metasploit", "Docker"],
-            link: "https://github.com/maidenzinho/vulnscan-pro"
+            link: "https://github.com/maidenzinho/vulnscannerpro"
         },
         {
             title: "PacketSniffer",
